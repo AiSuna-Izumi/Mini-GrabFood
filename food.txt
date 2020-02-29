@@ -1,0 +1,19 @@
+1
+Nasi Goreng Pataya
+Ala Carte
+Rm 8
+2
+Nasi Goreng USA
+Ala Carte
+Rm 8
+3
+Kenduri Package
+Buffet
+Rm 20
+4
+Extra Cheese
+Add On
+Rm 56
+popia
+Add On
+Rm 5
